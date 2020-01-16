@@ -1,0 +1,35 @@
+{ "symbol": "ABC", "bidQuantity": "50", "bidPrice" : "100.0", "askQuantity": "50", "askPrice" : "99.0" }
+{ "symbol": "DEF", "bidQuantity": "50", "bidPrice" : "51.0", "askQuantity": "50", "askPrice" : "49.3" }
+{ "symbol": "ABC", "quantity": "50", "side":"BUY", "price": "101.0" }
+{ "symbol": "XYZ", "bidQuantity": "50", "bidPrice" : "201.0", "askQuantity": "50", "askPrice" : "199.3" }
+{ "symbol": "ABC", "quantity": "45", "side":"SELL", "price": "96.0" }
+{ "symbol": "ABC", "quantity": "45", "side":"SELL", "price": "98.0" }
+{ "symbol": "ABC", "quantity": "25", "side":"BUY", "price": "101.5" }
+{ "symbol": "DEF", "quantity": "45", "side":"SELL", "price": "48.0" }
+{ "symbol": "DEF", "quantity": "35", "side":"BUY", "price": "51.5" }
+{ "symbol": "XYZ", "quantity": "25", "side":"BUY", "price": "200.5" }
+{ "symbol": "XYZ", "quantity": "45", "side":"SELL", "price": "198.0" }
+{ "symbol": "DEF", "quantity": "15", "side":"SELL", "price": "49.5" }
+{ "symbol": "XYZ", "quantity": "15", "side":"SELL", "price": "199.6" }
+{ "symbol": "ABC", "quantity": "25", "side":"BUY", "price": "101.4" }
+{ "symbol": "DEF", "quantity": "45", "side":"SELL", "price": "48.3" }
+{ "symbol": "DEF", "quantity": "35", "side":"BUY", "price": "51.6" }
+{ "symbol": "XYZ", "quantity": "25", "side":"BUY", "price": "200.6" }
+{ "symbol": "XYZ", "quantity": "45", "side":"SELL", "price": "198.2" }
+{ "symbol": "DEF", "quantity": "15", "side":"SELL", "price": "49.4" }
+{ "symbol": "XYZ", "quantity": "15", "side":"SELL", "price": "199.9" }
+{ "symbol": "ABC", "quantity": "65", "side":"BUY", "price": "102.5" }
+{ "symbol": "DEF", "quantity": "65", "side":"SELL", "price": "48.1" }
+{ "symbol": "DEF", "quantity": "65", "side":"BUY", "price": "51.6" }
+{ "symbol": "XYZ", "quantity": "45", "side":"BUY", "price": "200.0" }
+{ "symbol": "XYZ", "quantity": "65", "side":"SELL", "price": "198.1" }
+{ "symbol": "DEF", "quantity": "65", "side":"SELL", "price": "49.3" }
+{ "symbol": "XYZ", "quantity": "55", "side":"SELL", "price": "198.6" }
+{ "symbol": "ABC", "quantity": "25", "side":"BUY", "price": "101.8" }
+{ "symbol": "DEF", "quantity": "55", "side":"SELL", "price": "48.8" }
+{ "symbol": "DEF", "quantity": "55", "side":"BUY", "price": "51.4" }
+{ "symbol": "XYZ", "quantity": "55", "side":"BUY", "price": "201.7" }
+{ "symbol": "XYZ", "quantity": "55", "side":"SELL", "price": "198.5" }
+{ "symbol": "DEF", "quantity": "15", "side":"SELL", "price": "49.3" }
+{ "symbol": "XYZ", "quantity": "15", "side":"SELL", "price": "199.7" }
+{ "symbol": "XYZ", "quantity": "15", "side":"SELL", "price": "199.7" }
